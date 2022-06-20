@@ -7,30 +7,32 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjorgeac&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ryanjorgeac&theme=gotham&hide_border=true&area=true&color=4087c3)
-
 ![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.svg?)
 
 ### Main skills:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-2C2255?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=f2d741)&nbsp;
 
 ### Tools:
-![PyCharm](https://img.shields.io/badge/PyCharm-2C2255.svg?&style=for-the-badge&logo=PyCharm&logoColor=8bdc6c)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-2C2255.svg?&style=for-the-badge&logo=PyCharm&labelColor=58ab20)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&labelColor=20183f)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
+
+![GitHub](https://img.shields.io/badge/-GitHub-2C2255?style=for-the-badge&logo=github&labelColor=161b22)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-2C2255?style=for-the-badge&logo=ubuntu&labelColor=fff)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
+![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
+
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2255?style=for-the-badge&logo=postgresql&labelColor=316192&logoColor=white)&nbsp;
+
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-jorge-abreu-de-carvalho-12611a228/)
+[![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ryanjorge_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/285934994252103680)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryanjorgeac)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
