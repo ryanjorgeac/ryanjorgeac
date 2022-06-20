@@ -9,7 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ryanjorgeac&theme=gotham&hide_border=true&area=true&color=4087c3)
 
-![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.sgv)
+![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.svg?)
 
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
