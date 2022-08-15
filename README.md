@@ -24,6 +24,7 @@
 ### Other Knowledge:
 ![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
 
+
 ### Studying in this moment:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2255?style=for-the-badge&logo=postgresql&labelColor=316192&logoColor=white)&nbsp;
 
