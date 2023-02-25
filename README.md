@@ -4,6 +4,9 @@ I am software developer and mainly code in Python. Currently learning about Java
 </p>
 
 ### Welcome :)
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryanjorgeac&show_icons=true&count_private=true&hide_border=true&title_color=9685ff&icon_color=ffe26d&text_color=edeef0&bg_color=0d1117&hide=issues&hide_rank=true" alt="Ryan Carvalho's Github Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjorgeac&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
