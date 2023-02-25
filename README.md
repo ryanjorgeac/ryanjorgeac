@@ -3,7 +3,7 @@
 I am software developer and mainly code in Python. Currently learning about Java, C++, DevOps, linux and cloud computing. I love to explore new technologies and combine them to solve real-life problems. Also, I learn quickly and adapt easily.
 </p>
 
-### Welcome :)
+## _I'm_
 
 
 
