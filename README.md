@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm Ryan. 👋</h2>
 <p align="center">
-I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently manage and code for my agency MangoTree Dev; which I launched with one of my best mates and fellow instructors at Le Wagon.   
+I'm a back-end software developer. Currently learning about DevOps, linux and cloud computing.
 </p>
 
 <p align="center">
