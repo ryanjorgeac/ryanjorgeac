@@ -3,10 +3,10 @@
 I am back-end software developer that mainly code in Python. Currently learning about Java, C++, DevOps, linux and cloud computing. 
 </p>
 
-<p align="center">
 > An amazing person who applies the principles of software development in magical way 
+
 > _Synonyms: sorcerer, wizard, magician_
-</p>
+
 
 
 
