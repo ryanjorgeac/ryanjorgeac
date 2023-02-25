@@ -5,8 +5,6 @@ I am back-end software developer that mainly code in Python. Currently learning 
 
 > An amazing person who applies the principles of software development in magical way 
 
-> _Synonyms: sorcerer, wizard, magician_
-
 
 
 
