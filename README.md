@@ -6,7 +6,10 @@ I am software developer and mainly code in Python. Currently learning about Java
 <p align="center">  When I'm not coding, you can find me playing video games or doing sports with some friends </p>
 
 ## _I'm ..._
-<p align="left">
+<a href="#ryanjorgeac-title">
+ <img src="https://github-readme-stats.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=449ef3&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Ryan Carvalho's Github Stats" align="right"/>
+</a>
+
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
 - DevOps Student at [**Alura**](https://www.alura.com.br/) by [**Desenvolve Program**](https://desenvolve.grupoboticario.com.br/) from [**Grupo Boticário**](https://www.grupoboticario.com.br/)
@@ -18,17 +21,11 @@ I am software developer and mainly code in Python. Currently learning about Java
 - From Brazil
  
 >⚡ **Fun Fact: I'm Beach Volleyball Player**
-</p>
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+
+
 
 ## Favorite Technologies
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryanjorgeac&show_icons=true&count_private=true&hide_border=true&title_color=9685ff&icon_color=ffe26d&text_color=edeef0&bg_color=0d1117&hide=issues&hide_rank=true" alt="Ryan Carvalho's Github Stats" />
-  
-</div>
 
 ![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.svg?)
 
