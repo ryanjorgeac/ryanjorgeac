@@ -1,7 +1,13 @@
 <h2 align="center">Hello! I'm Ryan. 👋</h2>
+<p align="center">
+I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently manage and code for my agency MangoTree Dev; which I launched with one of my best mates and fellow instructors at Le Wagon.   
+</p>
 
+<p align="center">
 > An amazing person who applies the principles of software development in magical way 
 > _Synonyms: sorcerer, wizard, magician_
+</p>
+
 
 
 <div align="center">  
