@@ -111,9 +111,6 @@ I am software developer and mainly code in Python. Currently learning about Java
 </table>
 
 
-![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.svg?)
-
-
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-jorge-abreu-de-carvalho-12611a228/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/285934994252103680)
