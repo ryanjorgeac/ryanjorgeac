@@ -14,7 +14,7 @@ I am software developer and mainly code in Python. Currently learning about Java
 
 - From Brazil
  
-- ⚡ Fun Fact: I'm Beach Volleyball Player
+<⚡ Fun Fact: I'm Beach Volleyball Player
 
 ##
 
