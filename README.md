@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm Ryan. 👋</h2>
 <p align="center">
-I'm a back-end software developer. Currently learning about DevOps, linux and cloud computing.
+I am back-end software developer that mainly code in Python. Currently learning about Java, C++, DevOps, linux and cloud computing. 
 </p>
 
 <p align="center">
