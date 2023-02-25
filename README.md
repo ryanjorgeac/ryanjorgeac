@@ -1,4 +1,4 @@
-## Hi there. I'm Ryan. 
+<h2 align="center">Hello! I'm Ryan. 👋</h2>
 
 > An amazing person who applies the principles of software development in magical way 
 > _Synonyms: sorcerer, wizard, magician_
