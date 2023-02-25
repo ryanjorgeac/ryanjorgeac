@@ -107,24 +107,6 @@ I am software developer and mainly code in Python. Currently learning about Java
       </a>
       <br>HTML5
     </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
-      </a>
-      <br>Bash
-    </td>
   </tr>
 </table>
 
