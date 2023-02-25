@@ -8,9 +8,9 @@ I am software developer and mainly code in Python. Currently learning about Java
 ## _I'm ..._
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
-- DevOps Student at [**Alura**](https://www.alura.com.br/) by [**Desenvolve Program**](https://desenvolve.grupoboticario.com.br/) from [Grupo Boticário](https://www.grupoboticario.com.br/)
+- DevOps Student at [**Alura**](https://www.alura.com.br/) by [**Desenvolve Program**](https://desenvolve.grupoboticario.com.br/) from [**Grupo Boticário**](https://www.grupoboticario.com.br/)
 
-- Learning more about Web Development, HTTP protocols and Containers on [National Financial System project](https://github.com/SistemaFinanceiroNacional)
+- Learning more about Web Development, HTTP protocols and Containers on [**National Financial System project**](https://github.com/SistemaFinanceiroNacional)
 
 - 20 years old
 
