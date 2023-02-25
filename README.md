@@ -110,6 +110,11 @@ I am software developer and mainly code in Python. Currently learning about Java
   </tr>
 </table>
 
+### Coding Activity
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-jorge-abreu-de-carvalho-12611a228/)
