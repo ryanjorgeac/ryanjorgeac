@@ -3,7 +3,7 @@
 I am software developer and mainly code in Python. Currently learning about Java, C++, DevOps, linux and cloud computing. I love to explore new technologies and combine them to solve real-life problems. Also, I learn quickly and adapt easily.
 </p>
 
-<h3>Welcome :)</h3>
+### Welcome :)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryanjorgeac&show_icons=true&count_private=true&hide_border=true&title_color=9685ff&icon_color=ffe26d&text_color=edeef0&bg_color=0d1117&hide=issues&hide_rank=true" alt="Ryan Carvalho's Github Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjorgeac&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
