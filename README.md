@@ -113,6 +113,10 @@ I am software developer and mainly code in Python. Currently learning about Java
 ### Coding Activity
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
