@@ -25,7 +25,7 @@ I am software developer and mainly code in Python. Currently learning about Java
 
 
 ## _Favorite Technologies_
->Tools, languages and other things that I like and am used to work with
+>Tools, languages and other things that I like and am confortable to work with
 <table>
   <tr>
     <td align="center" width="96">
