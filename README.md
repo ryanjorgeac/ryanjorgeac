@@ -114,10 +114,10 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```text
-Python           6 hrs 42 mins   █████████████████████▒░░░   85.06 %
-C++              1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Java             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python           7 hrs 38 mins   █████████████████████▓░░░   86.62 %
+C++              1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Java             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
