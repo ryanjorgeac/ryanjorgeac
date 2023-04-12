@@ -114,8 +114,8 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 17 mins    ████████████████████████░   96.23 %
-SQL      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Python   1 hr 11 mins    ████████████████████████░   95.95 %
+SQL      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
