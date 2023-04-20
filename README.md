@@ -107,6 +107,13 @@ I am software developer and mainly code in Python. Currently learning about Java
       </a>
       <br>HTML5
     </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="48" alt="MONGODB"/>
+      </a>
+      <br>MONGODB
+    </td>
+   
   </tr>
 </table>
 
