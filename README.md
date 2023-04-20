@@ -7,7 +7,7 @@ I am software developer and mainly code in Python. Currently learning about Java
 
 ## _I'm ..._
 <a href="#ryanjorgeac-title">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=449ef3&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Ryan Carvalho's Github Stats" align="right"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=449ef3&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Ryan Carvalho's Github Stats" align="right"/>
 </a>
 
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
