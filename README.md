@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm Ryan. 👋</h2>
 <p align="center">
-I am software developer and mainly code in Python. Currently learning about Java, C++, DevOps, linux and cloud computing. I love to explore new technologies and combine them to solve real-life problems. Also, I learn quickly and adapt easily.
+I am software developer and mainly code in Python. Currently learning about Java, C++, DevOps, Linux and Cloud Computing. I love to explore new technologies and combine them to solve real-life problems. Also, I learn quickly and adapt easily.
 </p>
 
 <p align="center">  When I'm not coding, you can find me playing video games or doing sports with some friends </p>
