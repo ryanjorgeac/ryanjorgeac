@@ -120,12 +120,10 @@ I am software developer and mainly code in Python. Currently learning about Java
 ### Coding Activity
 <!--START_SECTION:waka-->
 
-```text
-Python           6 hrs 10 mins   ████████████████████████▓   98.44 %
-Jupyter          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Java             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```txt
+Python   8 hrs 51 mins   █████████████████████████   99.34 %
+SQL      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
