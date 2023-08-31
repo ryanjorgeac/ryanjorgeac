@@ -121,9 +121,8 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-Python     59 mins         ███████████████████▒░░░░░   76.72 %
-Markdown   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Java       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown   13 mins         ███████████████████▒░░░░░   77.17 %
+Java       4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
 ```
 
 <!--END_SECTION:waka-->
