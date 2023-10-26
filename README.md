@@ -121,7 +121,9 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HCL         6 mins          ████████████▒░░░░░░░░░░░░   49.22 %
+Terraform   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.82 %
+Other       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 
 <!--END_SECTION:waka-->
