@@ -121,8 +121,8 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   38 mins         ██████████████████████░░░   87.64 %
-HCL          5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JavaScript   34 mins         █████████████████████▓░░░   86.33 %
+HCL          5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
 ```
 
 <!--END_SECTION:waka-->
