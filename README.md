@@ -121,7 +121,11 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   34 mins         ███████████████████████▓░   94.24 %
+Bash     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
