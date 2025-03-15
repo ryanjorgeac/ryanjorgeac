@@ -121,11 +121,11 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              1 hr 13 mins    ████████▒░░░░░░░░░░░░░░░░   32.69 %
-JavaScript        56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-JSON              43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Python            27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Bash              13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+YAML              1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+JavaScript        1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   27.45 %
+JSON              43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
+Python            27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Bash              18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
 
 <!--END_SECTION:waka-->
