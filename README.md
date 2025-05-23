@@ -121,11 +121,11 @@ I am software developer and mainly code in Python. Currently learning about Java
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    3 hrs 18 mins   ██████████████▓░░░░░░░░░░   58.75 %
-Python       1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
-HCL          43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-YAML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Terraform    1 hr 35 mins    ████████████████████░░░░░   79.94 %
+YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+HCL          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
