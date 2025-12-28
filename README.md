@@ -1,121 +1,71 @@
-<h2 align="center">Hello! I'm Ryan. 👋</h2>
+<h2 align="center">Hello! I'm Ryan Carvalho. 👋</h2>
 <p align="center">
-I am software developer and mainly code in Python. Currently learning about Java, C++, DevOps, Linux and Cloud Computing. I love to explore new technologies and combine them to solve real-life problems. Also, I learn quickly and adapt easily.
+  <strong>DevOps Analyst @ Grupo Boticário | Platform Engineering Enthusiast</strong>
 </p>
 
-<p align="center">  When I'm not coding, you can find me playing video games or doing sports with some friends </p>
+<p align="center">
+  A DevOps Engineer with over 2 years of experience focused on scaling cloud infrastructure and improving the developer experience. Currently, I manage multiple complex environments involving <strong>AWS, Kubernetes (EKS), and ArgoCD</strong>, while building automations that bridge the gap between operations and development.
+</p>
 
-## _I'm ..._
-<a href="#ryanjorgeac-title">
- <img src="https://github-readme-stats-ryanjorgeac.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Ryan Carvalho's Github Stats" align="right"/>
-</a>
-
-- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
-
-- DevOps Student at [**Alura**](https://www.alura.com.br/) by [**Desenvolve Program**](https://desenvolve.grupoboticario.com.br/) from [**Grupo Boticário**](https://www.grupoboticario.com.br/)
-
-- Learning more about Web Development, HTTP protocol and Containers on [**National Financial System project**](https://github.com/SistemaFinanceiroNacional)
-
-- 20 years old
-
-- From Brazil
- 
->⚡ **Fun Fact: I'm Beach Volleyball Player**
+<p align="center">
+    <a href="https://www.linkedin.com/in/ryanjorgeac/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:ryanjorgeac@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
 
 
-## _Favorite Technologies_
->Tools, languages and other things that I like and am confortable to work with
+<!-- <p align="center"> 
+  When I'm not optimizing some CI/CD pipelines, I’m likely studying <strong>Platform Engineering</strong>, contributing to the company internal tools, such as developer portals, or improving development skills.
+</p> -->
+
+## 👤 About me
+
+  <img src="https://github-readme-stats-ryanjorgeac.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Ryan Carvalho's Github Stats" align="right"/>
+
+ 👨‍💻 **Currently** a DevOps Analyst I at **Grupo Boticário**, focusing on infrastructure governance, cost optimization, and developer productivity.
+
+ 🎓 **Information Systems Student** at **UFPB** (Expected 2026).
+<!-- - 🛠️ **Key Projects:** - Automated Slack/Kanbanize integrations to streamline team workflows.
+    - Developed AWS Lambda-based cost visibility tools using Terraform and Google Sheets.
+    - Evolution of Developer Platforms based on **Backstage**. -->
+ 📚 **DevOps Student** at [**Alura**](https://www.alura.com.br/) by [**Desenvolve Program**](https://desenvolve.grupoboticario.com.br/) from [**Grupo Boticário**](https://www.grupoboticario.com.br/) (2023 Edition)
+
+📍 **Based in** Paraíba, Brazil.
+
+<!-- > ⚡ **Fun Fact:** I have a background in both Data Science and academic monitoring (Java/#TDD), which helps me understand the full software lifecycle. -->
+
+<!-- ## 🛠️ Tech Stack & Skills
+
+### Infrastructure & Cloud
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      </a>
-      <br>Python
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest"/>
-      </a>
-      <br>Pytest
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-      </a>
-      <br>Docker
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu"/>
-      </a>
-      <br>Ubuntu
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
-      </a>
-      <br>Bash
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm"/>
-      </a>
-      <br>PyCharm
-    </td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/><br>AWS</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48"/><br>EKS</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48"/><br>Terraform</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48"/><br>ArgoCD</td>
+    <td align="center" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="48" height="48"/><br>Helm</td>
   </tr>
 </table>
 
-## _New Technologies_
->Tools, languages and other things that I am currently learning
+### Development & Automation
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-      </a>
-      <br>Java
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-      </a>
-      <br>C++
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
-      </a>
-      <br>AWS
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MONGODB"/>
-      </a>
-      <br>MongoDB
-    </td>
-   
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br>Python</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br>Node.js</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48"/><br>Actions</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48"/><br>Bash</td>
+    <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br>Postgres</td>
   </tr>
 </table>
+
+### Observability & Tools
+[cite_start]`Grafana` • `New Relic` • `Zabbix` • `Slack API` • `Backstage` • `AppScript` [cite: 44]
+
+--- -->
 
 ### Coding Activity
 <!--START_SECTION:waka-->
@@ -125,16 +75,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-### Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-jorge-abreu-de-carvalho-12611a228/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/285934994252103680)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryanjorgeac)
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ryanjorgeac}/count.svg" /></p> 
-<br></div>
-
