@@ -71,9 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      2 mins          ████████████▓░░░░░░░░░░░░   50.36 %
-Text        1 min           ████████▓░░░░░░░░░░░░░░░░   34.61 %
-Terraform   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
